@@ -1,4 +1,4 @@
-### Fitness Tracker using Machine Learning
+#### Fitness Tracker using Machine Learning
 ## Overview
 This machine learning-based fitness tracker analyzes real-time sensor data to recognize exercises performed, count repetitions, and provide personalized workout insights. It integrates IoT sensors and a dashboard for real-time tracking and performance analysis.
 
